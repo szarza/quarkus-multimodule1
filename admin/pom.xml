@@ -40,12 +40,6 @@
 			<groupId>org.zkoss.zk</groupId>
 			<artifactId>zkbind</artifactId>
 			<version>${zk.version}</version>
-			<exclusions>
-				<exclusion>
-					<groupId>org.zkoss.zk</groupId>
-					<artifactId>zkwebfragment</artifactId>
-				</exclusion>
-			</exclusions>
 		</dependency>
 		<dependency>
 			<groupId>org.zkoss.zk</groupId>
